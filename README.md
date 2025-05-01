@@ -1,10 +1,10 @@
 # Assignment 1
 ---
 ## Assignment 1: Design Your Own Class! 🏗️
-## Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
-## Add attributes and methods to bring the class to life!
-## Use constructors to initialize each object with unique values.
-## Add an inheritance layer to explore polymorphism or encapsulation.
+Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
+Add attributes and methods to bring the class to life!
+Use constructors to initialize each object with unique values.
+Add an inheritance layer to explore polymorphism or encapsulation.
 ---
 
 This project demonstrates core Object-Oriented Programming (OOP) concepts in Python — specifically inheritance, polymorphism, and abstraction — by modeling different types of content: books, movies, and music.
@@ -67,9 +67,8 @@ Bohemian Rhapsody by Queen (1975) - Genre: Rock
 
 ---
 ## Activity 2: Polymorphism Challenge! 🎭
-
-## Create a program that includes animals or vehicles with the same action (like move()). 
-## However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
+Create a program that includes animals or vehicles with the same action (like move()). 
+However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
 ---
 
 ## 🧠 Concepts Covered
